@@ -1,4 +1,4 @@
-FROM r-base:3.5.1
+FROM r-base:3.5.3
 
 # install required tools
 RUN apt-get update && \
