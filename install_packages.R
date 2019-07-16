@@ -11,7 +11,7 @@ libs <- c(
 )
 
 gitlibs <- c(
-  'hadley/multidplyr',
+  'tidyverse/multidplyr',
   'snowflakedb/dplyr-snowflakedb'
 )
 
